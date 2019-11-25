@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlyDrone</string>
+    <string name="ble_not_supported">BLE NOT supported</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning</string>
+    <string name="select_device">Select device</string>
+    <string name="cancel">Cancel</string>
+    <string name="paired">Paired</string>
+    <string-array name="modes">
+        <item>0: Safe: s</item>
+        <item>1: Panic: p</item>
+        <item>2: Manual: m</item>
+        <item>3: Calibration: c</item>
+        <item>4: Yaw control: y</item>
+        <item>5: Full control: f</item>
+        <item>6: Raw: r</item>
+        <item>7: Height control: h</item>
+    </string-array>
+</resources>
