@@ -1,0 +1,2 @@
+# ES-LAB
+The assignment was to stabilize a quadruple drone such that it can fly and hover in different environment condition using limited user controls . We implemented different modes of operations such as panic mode, safe mode, manual mode,calibration mole, full mode, raw mode, height control mode, and wireless mode. We also developed an android app "Flydrone" to control the different modes of drone navigation using an android mobile. 
